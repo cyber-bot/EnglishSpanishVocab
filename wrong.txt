@@ -1,0 +1,2 @@
+ice cream,helado
+dog,perro

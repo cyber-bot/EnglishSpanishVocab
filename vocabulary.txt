@@ -1,0 +1,58 @@
+Hello,Hola
+Goodbye,Adios
+Yes,Si
+No,No
+Thank you,Gracias
+Please,Por favor
+Sorry,Lo siento
+Excuse me,Perdon
+Friend,Amigo
+Family,Familia
+House,Casa
+Car,Coche
+Food,Comida
+Water,Agua
+Book,Libro
+School,Escuela
+Work,Trabajo
+Money,Dinero
+Time,Tiempo
+Day,Dia
+Night,Noche
+Morning,Manana
+Evening,Tarde
+Week,Semana
+Month,Mes
+Year,Ano
+Love,Amor
+Hate,Odio
+Happy,Feliz
+Sad,Triste
+Angry,Enojado
+Tired,Cansado
+Hungry,Hambriento
+Thirsty,Sediento
+Hot,Caliente
+Cold,Frio
+Beautiful,Hermoso
+Ugly,Feo
+Big,Grande
+Small,Pequeno
+Fast,Rapido
+Slow,Lento
+Old,Viejo
+Young,Joven
+Good,Bueno
+Bad,Malo
+Right,Derecho
+Wrong,Equivocado
+Here,Aqui
+There,Alli
+Now,Ahora
+Later,Mas tarde
+Never,Nunca
+Always,Siempre
+Before,Antes
+After,Despues
+First,Primero
+Last,Ultimo
